@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/knwsA7hCPoA" target="_blank"><img src="https://github.com/kthenurseone-dev/dextool_trendbot/blob/main/2.png?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/knwsA7hCPoA" target="_blank"><img src="https://raw.githubusercontent.com/kthenurseone-dev/dextools_trendbot/main/2.png"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
@@ -50,9 +50,9 @@ I will help to install the program.
 
 
 ## Images
-![Dextool_Bot](https://github.com/kthenurseone-dev/dextool_trendbot/blob/main/1.png?raw=true)
-![Dextool_Bot](https://github.com/kthenurseone-dev/dextool_trendbot/blob/main/2.png?raw=true)
-![Dextool_Bot](https://github.com/kthenurseone-dev/dextool_trendbot/blob/main/3.png?raw=true)
+![Dextool_Bot](https://raw.githubusercontent.com/kthenurseone-dev/dextools_trendbot/main/1.png)
+![Dextool_Bot](https://raw.githubusercontent.com/kthenurseone-dev/dextools_trendbot/main/2.png)
+![Dextool_Bot](https://raw.githubusercontent.com/kthenurseone-dev/dextools_trendbot/main/3.png)
 
 
 
